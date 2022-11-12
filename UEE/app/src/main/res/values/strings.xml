@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">UEE</string>
-    <array name="item_type">
-        <item>Book</item>
-        <item>Pen</item>
-        <item>Bag</item>
-        <item>Other</item>
-    </array>
-</resources>
