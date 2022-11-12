@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "319198036799",
+    "firebase_url": "https://ueemy-8fc08-default-rtdb.firebaseio.com",
+    "project_id": "ueemy-8fc08",
+    "storage_bucket": "ueemy-8fc08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319198036799:android:232510c0f4a5454de8498a",
+        "android_client_info": {
+          "package_name": "com.example.uee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319198036799-9ns9bokvkci9e00c954b95418uihrjc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEAnXijtWxTNBHqvyn9Y2-yI7Ef0dCnQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319198036799-9ns9bokvkci9e00c954b95418uihrjc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
